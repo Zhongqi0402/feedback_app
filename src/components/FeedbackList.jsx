@@ -1,5 +1,4 @@
 import React from 'react'
-import FeedbackData from '../data/FeedbackData'
 import FeedbackItem from './FeedbackItem'
 import {motion, AnimatePresence } from 'framer-motion'
 import { useContext } from 'react'
